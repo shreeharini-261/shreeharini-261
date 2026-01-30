@@ -22,14 +22,8 @@ AI Engineer | Machine Learning | Computer Vision | GenAI
 B.Tech Artificial Intelligence 
 Focused on building practical ML/GenAI systems and research-backed AI products.
 
----
-
 ## 🚀 What I'm Currently Working On
-- Retrieval-Augmented Generation (RAG) systems for document understanding  
-- Computer vision models (deepfake detection, OCR)  
-- End-to-end ML pipelines and deployment workflows  
-
----
+- ARIVAI-Major-project-AI powered Menstrual Wellness app 
 
 ## 🧠 Experience Snapshot
 **ML & Software Development Intern – Caprae Capital**  
@@ -44,16 +38,15 @@ Focused on building practical ML/GenAI systems and research-backed AI products.
 - Paper on RAG vs standalone LLMs  
 - 22% improvement in document embedding & retrieval performance  
 
----
-
 ## 🛠 Tools & Tech
 **Languages:** Python, SQL  
 **AI:** LLaMA, Embeddings, RAG Pipelines, OpenCV, YOLO, Vision Transformers, Machine learning, Deep learning
 **Backend & Dev:** Flask, FastAPI, PostgreSQL, Git 
 **Cloud:**  GCP  
 
----
-
 ## 📫 How to Reach Me
-- LinkedIn: https://linkedin.com/in/shreeharini-s  
+- LinkedIn: https://linkedin.com/in/shreeharini-s
+
+## Hobbies
+- Painting, Guitar, Singing, Chess, Self help books
 
