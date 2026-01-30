@@ -44,7 +44,7 @@ Focused on building practical ML/GenAI systems and research-backed AI products.
 **Cloud:** GCP  
 
 ##  How to Reach Me
-- LinkedIn: https://linkedin.com/in/shreeharini-s
+- [LinkedIn: https://linkedin.com/in/shreeharini-s](https://www.linkedin.com/in/shreeharini-s-3b98b1217/ )
 
 ##  Fun Facts
 - Love to paint, play guitar, and sing  
