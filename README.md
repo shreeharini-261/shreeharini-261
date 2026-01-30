@@ -19,27 +19,35 @@ Here are some ideas to get you started:
 
 AI Engineer | Machine Learning | Computer Vision | GenAI  
 
-B.Tech Artificial Intelligence 
+B.Tech Artificial Intelligence  
 Focused on building practical ML/GenAI systems and research-backed AI products.
 
 ## 🚀 What I'm Currently Working On
-- ARIVAI-Major-project-AI powered Menstrual Wellness app 
+- ARIVAI – Major Project: AI-powered Menstrual Wellness App
 
 ## 🧠 Experience Snapshot
 **ML & Software Development Intern – Caprae Capital**  
-**Research Fellowship – Hyperverge Nexus** (Deepfake detection)
-**Research Presenter** – AAIMB 2024 International Conference 
+**Research Fellow – Hyperverge Nexus** (Deepfake Detection)  
+**Research Presenter – AAIMB 2024 International Conference**
 
 ## 🛠 Tools & Tech
 **Languages:** Python, SQL  
-**AI:** LLaMA, Embeddings, RAG Pipelines, OpenCV, YOLO, Vision Transformers, Machine learning, Deep learning
-**Backend & Dev:** Flask, FastAPI, PostgreSQL, Git 
-**Cloud:**  GCP  
+
+**ML & Deep Learning:** PyTorch, TensorFlow, Scikit-learn  
+
+**Computer Vision:** OpenCV, YOLO, Vision Transformers  
+
+**GenAI / LLM Stack:** LLaMA, Embeddings, RAG Pipelines  
+
+**Backend & Dev:** Flask, FastAPI, PostgreSQL, Git  
+
+**Cloud:** GCP  
 
 ## 📫 How to Reach Me
 - LinkedIn: https://linkedin.com/in/shreeharini-s
 
-## Fun Facts
-- Love to paint, play guitar and sing along
-- Play chess and read self help books
+## 🎯 Fun Facts
+- Love to paint, play guitar, and sing  
+- Play chess and read self-help books
+
 
