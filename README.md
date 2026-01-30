@@ -27,7 +27,7 @@ Focused on building practical ML/GenAI systems and research-backed AI products.
 
 ## 🧠 Experience Snapshot
 **ML & Software Development Intern – Caprae Capital**  
-**Research Fellowship – Hyperverge Nexus** (Deepfake detection) 
+**Research Fellowship – Hyperverge Nexus** (Deepfake detection)
 **Research Presenter** – AAIMB 2024 International Conference 
 
 ## 🛠 Tools & Tech
