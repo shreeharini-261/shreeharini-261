@@ -27,16 +27,8 @@ Focused on building practical ML/GenAI systems and research-backed AI products.
 
 ## 🧠 Experience Snapshot
 **ML & Software Development Intern – Caprae Capital**  
-- Built AI-driven lead generation & data extraction pipelines  
-- Developed secure Stripe-based subscription system (Flask, PostgreSQL)
-
-**Research Fellowship – Hyperverge Nexus**  
-- Deepfake detection using EfficientNet-B7 + Vision Transformers  
-- 90% accuracy, 25% reduction in false positives  
-
-**Research Presenter – AAIMB 2024 International Conference**  
-- Paper on RAG vs standalone LLMs  
-- 22% improvement in document embedding & retrieval performance  
+**Research Fellowship – Hyperverge Nexus** (Deepfake detection) 
+**Research Presenter** – AAIMB 2024 International Conference 
 
 ## 🛠 Tools & Tech
 **Languages:** Python, SQL  
@@ -47,6 +39,7 @@ Focused on building practical ML/GenAI systems and research-backed AI products.
 ## 📫 How to Reach Me
 - LinkedIn: https://linkedin.com/in/shreeharini-s
 
-## Hobbies
-- Painting, Guitar, Singing, Chess, Self help books
+## Fun Facts
+- Love to paint, play guitar and sing along
+- Play chess and read self help books
 
