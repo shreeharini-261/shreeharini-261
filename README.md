@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Shreeharini S
+# Hi, I'm Shree!
 
 AI Engineer | Machine Learning | Computer Vision | GenAI  
 
